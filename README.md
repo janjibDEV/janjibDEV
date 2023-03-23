@@ -1,12 +1,18 @@
-### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=janjibDEV&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-
-<div id="badges">
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <div id="badges">
+    <a href="https://www.linkedin.com/feed/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=janjibDEV" />
 </div>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=janjibDEV&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+  
+
+
 
 <!---
 janjib/janjib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
