@@ -1,5 +1,6 @@
 
 <div align="center">
+  <img src= "https://i.imgur.com/MvMxQ1a.gif" height=300 width=50/>
   <h1>Hi there 👋</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/feed/">
